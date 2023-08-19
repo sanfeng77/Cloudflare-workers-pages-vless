@@ -1,1 +1,1 @@
-在cloudflare中创建worker
+在cloudflare中创建workers
